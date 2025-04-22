@@ -510,7 +510,7 @@
 //     return 0;
 // }
 
-// DİZİ Girilen n adet sayı içerisinden pozitif, negatif ve sıfır sayısının kaçar adet tekrarlandığını bulunuz.
+// --DİZİ Girilen n adet sayı içerisinden pozitif, negatif ve sıfır sayısının kaçar adet tekrarlandığını bulunuz.
 //  #include <stdio.h>
 //  int main()
 //  {
