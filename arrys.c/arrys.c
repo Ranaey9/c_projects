@@ -397,7 +397,7 @@
 //     return 0;
 // }
 
-// int sayilar[]=; Verilen sayı dizisinde yan yana olan çift sayı ikilisi bulan program (20-60, 24-26, 50-30, 30-40 şeklinde 4 adet olarak ekrana yazdırılacaktır.)
+//--- int sayilar[]=; Verilen sayı dizisinde yan yana olan çift sayı ikilisi bulan program (20-60, 24-26, 50-30, 30-40 şeklinde 4 adet olarak ekrana yazdırılacaktır.)
 // #include <stdio.h>
 // int main()
 // {
@@ -412,7 +412,7 @@
 //     return 0;
 // }
 
-// Kullanıcıdan alınan bir kelimedeki harfleri Harf isimli diziye, rakamları ise Rakam isimli diziye aktardıktan sonra bu dizileri sırayla ekrana yazdıran programın kodunu yazınız
+//-- Kullanıcıdan alınan bir kelimedeki harfleri Harf isimli diziye, rakamları ise Rakam isimli diziye aktardıktan sonra bu dizileri sırayla ekrana yazdıran programın kodunu yazınız
 // #include <stdio.h>
 // int main()
 // {
@@ -436,7 +436,7 @@
 //     return 0;
 // }
 
-// 10 elemanlı bir tamsayı dizisindeki elemanları ve her bir elemanın değeri kadar yıldız oluşturarak yazdırınız.
+//-- 10 elemanlı bir tamsayı dizisindeki elemanları ve her bir elemanın değeri kadar yıldız oluşturarak yazdırınız.
 // #include <stdio.h>
 // int main()
 // {
@@ -453,7 +453,7 @@
 //     return 0;
 // }
 
-// 1,den  N ye kadar sayılar yazdır dizi
+//-- 1,den  N ye kadar sayılar yazdır dizi
 //  #include <stdio.h>
 //  int main()
 //  {
@@ -472,7 +472,7 @@
 //      return 0;
 //  }
 
-// DİZİ Verilen bir sayının tam bölenlerini bulan algoritma
+// --DİZİ Verilen bir sayının tam bölenlerini bulan algoritma
 //  #include <stdio.h>
 //  int main()
 //  {
