@@ -381,7 +381,7 @@
 //     return 0;
 // }
 
-// int sayilar[]= { 20,60,45,42,23,24,26,125,66,55,145,50,30,40 }; Verilen sayı dizisinde çift sayıları tek sayıya (kendisinden bir fazla olan sayıya) çeviren program kodunu yazınız. (20=>21, 60=>61 şeklinde olacaktır.
+// ---int sayilar[]= { 20,60,45,42,23,24,26,125,66,55,145,50,30,40 }; Verilen sayı dizisinde çift sayıları tek sayıya (kendisinden bir fazla olan sayıya) çeviren program kodunu yazınız. (20=>21, 60=>61 şeklinde olacaktır.
 // #include <stdio.h>
 // int main()
 // {
