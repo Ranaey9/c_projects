@@ -602,9 +602,9 @@ void kuyruguYazdir() {
 }
 
 int main() {
-    Siparis siparis1 = {"Emir", "Malatya", "Kalem"};
-    Siparis siparis2 = {"Ahmet", "Istanbul", "Kitap"};
-    Siparis siparis3 = {"Ayşe", "Ankara", "Laptop"};
+    Siparis siparis1 = {"a", "b", "c"};
+    Siparis siparis2 = {"d", "e", "f"};
+    Siparis siparis3 = {"g", "h", "l"};
 
     siparisEkle(siparis1);
     siparisEkle(siparis2);
