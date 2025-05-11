@@ -1,0 +1,1 @@
+This project has many examples and problems written in the C programming language. The examples start from easy topics and go to harder ones. It is good for learning, practice, and preparing for exams.
